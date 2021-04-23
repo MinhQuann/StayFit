@@ -1,0 +1,17 @@
+{"conversations": 
+[
+    ["Where can I find a PT?", "We have PTs all around England, including part-tim and full-time"], 
+    ["Find a PT", "We have PTs all around England, including part-tim and full-time"], 
+    ["I want to find a GYM center", "We have 3 centers in London"], 
+    ["GYM center", "We have 3 centers in London"], 
+    ["GYM", "We have 3 centers in London"],
+    ["What is BMI?","Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women"],
+    ["What is BMR?","Basal metabolic rate (BMR) is a measurement of the number of calories needed to perform your body's most basic (basal) functions."],
+    ["How much calories do I need daily?","Though it differs depending on age and activity level, adult males generally require 2,000-3000 calories per day to maintain weight while adult females need around 1,600-2,400 according to the U.S Department of Health. "],
+    ["How much calories is appropriate for each meal?",
+    "Breakfast: 25% of daily needed calories; Lunch: 35%; Dinner: 25%; Snack: 15%"],
+    ["Can you help me?","Yes, sure. How can I help you?"],
+    ["How can I lose weight?","You should burn more calories than the consumed amount of calories."],
+    ["How can I gain weight?","You may consump more calories as suggested by our tool."]
+]
+}
